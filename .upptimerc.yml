@@ -26,7 +26,7 @@ status-website:
   logoUrl: https://avatars.githubusercontent.com/u/66381419?s=60&v=4
   theme: dark
   name: IndyKite Status Page
-  introTitle: "Having trouble? Check out [documentation](https://indykite.one/blog?category=57ddfc6c-a7f5-4269-8afc-6d023e32e7bc) at or email us at support@indykite.com."
+  introTitle: "Having trouble? Check out [documentation](https://indykite.one/blog?category=57ddfc6c-a7f5-4269-8afc-6d023e32e7bc) or email us at support@indykite.com."
   
   navbar:
     - title: Status
