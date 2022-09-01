@@ -15,7 +15,7 @@ sites:
     url: $JARVIS_PLATFORM_URL
     icon: https://console.indykite.id/favicon.png
     maxResponseTime: 5000
-  - name: IndyKite Community
+  - name: IndyKite Community Web
     url: https://indykite.one/favicon.png
     icon: https://storage.googleapis.com/buildtoriot-prod-cdn/darkLogo--ecd2e1a8-e2bc-4397-bf13-a29065634323--zeybxg?1628600699933
     maxResponseTime: 5000
@@ -31,12 +31,15 @@ status-website:
   theme: dark
   name: IndyKite Status Page
   introTitle: "Having trouble? Check out [documentation](https://indykite.one/blog?category=57ddfc6c-a7f5-4269-8afc-6d023e32e7bc) or email us at support@indykite.com."
-  
+  favicon: https://console.indykite.id/favicon.png
+  metaTags:
+    - name: "color-scheme"
+      content: "dark"
+    - name: "robots"
+      content: "noindex"
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
     - title: IndyKite
       href: https://indykite.com
 
