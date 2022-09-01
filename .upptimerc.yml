@@ -1,31 +1,40 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: indykite # Your GitHub organization or username, where this repository lives
+repo: uptime-status # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: IndyKite.ID Console
+    url: https://console.indykite.id
+    maxResponseTime: 5000
+  - name: IndyKite.ME
+    url: https://indykite.me
+    maxResponseTime: 5000
+  - name: Jarvis Platform
+    url: $JARVIS_PLATFORM_URL
+    maxResponseTime: 5000
+  - name: IndyKite Community
+    url: https://indykite.one
+    maxResponseTime: 5000
 
+assingees:
+  - maprokes
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  # cname: status.indykite.com
+  baseUrl: /uptime-status
+  logoUrl: https://avatars.githubusercontent.com/u/66381419?s=60&v=4
+  theme: dark
+  name: IndyKite Status Page
+  introTitle: "Having trouble? Check out [documentation](https://indykite.one/blog?category=57ddfc6c-a7f5-4269-8afc-6d023e32e7bc) at or email us at support@indykite.com."
+  
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: IndyKite
+      href: https://indykite.com
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
