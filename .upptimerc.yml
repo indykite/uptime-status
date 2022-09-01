@@ -11,7 +11,7 @@ sites:
     url: https://indykite.me
     icon: https://indykite.me/favicon.png
     maxResponseTime: 5000
-  - name: Jarvis Platform
+  - name: Jarvis Platform API
     url: $JARVIS_PLATFORM_URL
     icon: https://console.indykite.id/favicon.png
     maxResponseTime: 5000
