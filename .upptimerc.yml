@@ -26,7 +26,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.indykite.com
-  themeUrl: https://raw.githubusercontent.com/indykite/uptime-status/master/assets/style.css
+  themeUrl: https://cdn.statically.io/gh/indykite/uptime-status/master/assets/style.css
   logoUrl: https://avatars.githubusercontent.com/u/66381419?s=60&v=4
   theme: dark
   name: IndyKite Status Page
