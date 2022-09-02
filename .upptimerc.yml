@@ -16,7 +16,7 @@ sites:
     icon: https://console.indykite.id/favicon.png
     maxResponseTime: 5000
   - name: IndyKite Community Web
-    url: https://indykite.one/favicon.png
+    url: https://indykite.one
     icon: https://storage.googleapis.com/buildtoriot-prod-cdn/darkLogo--ecd2e1a8-e2bc-4397-bf13-a29065634323--zeybxg?1628600699933
     maxResponseTime: 5000
 
