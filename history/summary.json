@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 137,
-    "timeDay": 150,
-    "timeWeek": 129,
+    "timeDay": 128,
+    "timeWeek": 128,
     "timeMonth": 137,
     "timeYear": 137,
     "dailyMinutesDown": {}
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 109,
-    "timeDay": 97,
-    "timeWeek": 89,
+    "timeDay": 136,
+    "timeWeek": 92,
     "timeMonth": 109,
     "timeYear": 109,
     "dailyMinutesDown": {}
@@ -47,8 +47,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 239,
-    "timeDay": 284,
-    "timeWeek": 250,
+    "timeDay": 250,
+    "timeWeek": 254,
     "timeMonth": 239,
     "timeYear": 239,
     "dailyMinutesDown": {}
@@ -59,18 +59,16 @@
     "icon": "https://storage.googleapis.com/buildtoriot-prod-cdn/darkLogo--ecd2e1a8-e2bc-4397-bf13-a29065634323--zeybxg?1628600699933",
     "slug": "indy-kite-community-web",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 400,
-    "timeDay": 744,
-    "timeWeek": 546,
-    "timeMonth": 400,
-    "timeYear": 400,
-    "dailyMinutesDown": {
-      "2022-09-22": 9
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 403,
+    "timeDay": 795,
+    "timeWeek": 488,
+    "timeMonth": 403,
+    "timeYear": 403,
+    "dailyMinutesDown": {}
   }
 ]
