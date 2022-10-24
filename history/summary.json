@@ -58,17 +58,19 @@
     "url": "https://indykite.one",
     "icon": "https://storage.googleapis.com/buildtoriot-prod-cdn/darkLogo--ecd2e1a8-e2bc-4397-bf13-a29065634323--zeybxg?1628600699933",
     "slug": "indy-kite-community-web",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 418,
-    "timeDay": 584,
-    "timeWeek": 423,
-    "timeMonth": 427,
-    "timeYear": 418,
-    "dailyMinutesDown": {}
+    "time": 520,
+    "timeDay": 3920,
+    "timeWeek": 1278,
+    "timeMonth": 647,
+    "timeYear": 520,
+    "dailyMinutesDown": {
+      "2022-10-24": 0
+    }
   }
 ]
