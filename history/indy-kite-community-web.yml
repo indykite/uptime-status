@@ -1,7 +1,7 @@
 url: https://indykite.one
-status: degraded
-code: 502
-responseTime: 25404
-lastUpdated: 2022-11-04T14:24:49.682Z
+status: up
+code: 200
+responseTime: 916
+lastUpdated: 2022-11-04T14:33:17.049Z
 startTime: Thu Sep 01 2022 11:40:04 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
